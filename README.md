@@ -52,7 +52,6 @@ Testing & Dev Tools
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akhilpatwal23&repo=ReactNotes-App&theme=radical&hide_border=true" />
 </a>
 </div>
-> 💡 If a pin above shows "Repository not found," just rename the repo on GitHub to match, or update the `repo=` value in the README — these are placeholders based on project names from my resume.
 <br>
 📊 GitHub Stats
 <div align="center">
