@@ -8,13 +8,11 @@
 </div>
 <br>
 👋 Who am I?
-```yaml
 name: Akhil Patwal
 role: Test Engineer (Automation) @ Sopra Steria
 status: "Early in my career, hungry to learn"
 focus: "Breaking things on purpose, then automating the fix 🤖"
 journey: "Oracle Forms & PL/SQL ➜ Java + Selenium automation ➜ full-stack side projects"
-```
 I'm just getting started in tech — currently working as a Test Engineer at a corporate, where I'm learning the ropes of software quality and automation from the ground up. I write scripts that hunt down bugs before they reach real users, and outside of work I build full-stack web apps to keep growing as a developer. New to the field, but all in on getting better every day. 🚀
 <br>
 🛠️ What I'm currently working on
